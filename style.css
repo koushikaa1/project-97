@@ -1,0 +1,17 @@
+#calculator{
+    background-color: #333c83;
+    position:absolute;
+    right: 50px;
+    top:50px;
+    height: 490px;
+align-content: center;
+color: #FDAF75;
+}
+#QA{
+    width: 990px;
+    color: #EAEA7F;
+}
+html{
+    background-color: #F24A72;
+    color: #EAEA7F;
+}
